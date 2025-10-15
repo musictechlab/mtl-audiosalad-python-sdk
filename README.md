@@ -2,6 +2,8 @@
 
 Unofficial, experimental Python SDK for interacting with AudioSalad APIs.
 
+![Demo](./demo.png)
+
 It provides three layers:
 
 - `services/audiosalad_client.py` — low-level HTTP client for AudioSalad client API
@@ -192,6 +194,14 @@ poetry run black .
 poetry run autopep8 --in-place --recursive .
 poetry run flake8
 ```
+
+## How to use
+
+1. Create environment
+```python3.13 -m venv .venv && source .venv/bin/activate```
+
+2. Install package
+```pip install audiosalad-python-sdk```
 
 ## Contributing
 
