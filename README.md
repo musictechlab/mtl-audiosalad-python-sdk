@@ -235,9 +235,12 @@ SOFTWARE.
 
 ---
 
-MusicTechLab — Digital Commerce Solutions for the Music Industry
-
-- Website: [musictechlab.io](https://www.musictechlab.io/)
-- LinkedIn: [linkedin.com/company/musictechlab.io](https://linkedin.com/company/musictechlab.io)
-- Contact: [office@musictechlab.io](mailto:office@musictechlab.io)
-- Crafted by: [musictechlab.io](https://www.musictechlab.io/)
+<div align="center">
+  MusicTech Lab - Rockstars Developers dedicated to the Music Industry<br>
+  <a href="https://musictechlab.io">Website</a>
+  <span> | </span>
+  <a href="https://linkedin.com/company/musictechlab">LinkedIn</a>
+  <span> | </span>
+  <a href="https://musictechlab.io/contact">Let's talk</a><br>
+  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
+</div>
