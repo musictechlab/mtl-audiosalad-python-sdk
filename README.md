@@ -1,5 +1,7 @@
 # mtl-audiosalad-sdk
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 Unofficial, experimental Python SDK for interacting with AudioSalad APIs.
 
 ![Demo](./demo.png)
